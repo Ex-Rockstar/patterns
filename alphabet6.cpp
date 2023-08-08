@@ -16,6 +16,13 @@ int main(){
         i++;
         a++;
         cout<<endl;
-        
+
     }
 }
+
+
+/*
+A
+BB
+CCC
+*/
